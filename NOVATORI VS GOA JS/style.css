@@ -1,0 +1,35 @@
+.title{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 100px;
+}
+.nov{
+    padding-left: -300px;
+    margin-top: -50px;
+}
+#button {
+    color: black;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    border: none;
+    border-radius: 15px;
+    position: absolute;
+}
+
+.goa{
+    color: black;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    border: none;
+    border-radius: 15px;
+    margin-left: 300px;
+}
